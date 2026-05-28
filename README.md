@@ -23,6 +23,10 @@ The calculator has been deployed and is now live. You can view it here: [Calcula
 ![Calculator](./assets/Calculator.png)
 
 ***
+#### ***Privew***
+![Preview](./assets/preview.png)
+
+***
 #### ***Future features***
 - [ ] Add advanced operations like exponentiation and square root.
 - [ ] Dark mode.
